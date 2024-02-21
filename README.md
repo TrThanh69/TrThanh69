@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TrThanh!
 - 👀 I’m interested in Malware (noob alert).
 - 🌱 I’m currently learning Information Security.
-- 💞️ I’m looking forward to S.O.C job (Type 1).
+- 💞️ I’m looking forward to S.O.C job (Tier 1).
 - 📫 How to reach me: thanhtdt73@gmail.com
 
 <!---
