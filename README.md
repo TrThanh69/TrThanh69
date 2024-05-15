@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TrThanh!
-- 👀 I’m interested in Malware (noob alert).
+- 👀 I’m interested in Malware (noob alert) and Risk managemnent.
 - 🌱 I’m currently learning Information Security.
 - 💞️ I’m looking forward to IT Audit.
 - 📫 How to reach me: thanhtdt73@gmail.com
