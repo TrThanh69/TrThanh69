@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TrThanh - Tavian Truong
 - 👀 I’m interested in Malware (noob alert) and Risk management.
-- 🌱 I’m currently learning Information Security.
+- 🌱 I’m currently learning Information Security at UIT.
 - 💞️ I’m looking forward to IT Risk or IT Audit.
 - 📫 How to reach me: thanhtdt73@gmail.com
 
