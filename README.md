@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TrThanh - Tavian Truong
+- 👋 Hi, I’m TrThanh - Tarek Truong
 - 👀 I’m interested in Malware (noob alert) and Risk management.
 - 🌱 I’m currently learning Information Security at UIT.
 - 💞️ I’m looking forward to IT Risk or IT Audit.
